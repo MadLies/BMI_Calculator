@@ -1,4 +1,4 @@
-﻿using Kotlin.Contracts;
+﻿
 using PropertyChanged;
 using System;
 using System.Collections.Generic;

@@ -31,6 +31,7 @@
                             Margin="0,0,30,0"
                             Text="-"
                             TextColor="White"
+                            Command="{Binding ReduceHCommand}"
                             BackgroundColor="{StaticResource buttons}"/>
                         
                         <Label
@@ -42,7 +43,8 @@
                         <Button BackgroundColor="{StaticResource buttons}"
                                 Text="+"
                                 TextColor="White"
-                                Margin="30,0,0,0"/>
+                                Margin="30,0,0,0"
+                                Command="{Binding IncreaseHCommand}"/>
 
                     </HorizontalStackLayout>
 
@@ -89,7 +91,8 @@
                             Margin="0,0,30,0"
                             Text="-"
                             TextColor="White"
-                            BackgroundColor="{StaticResource buttons}"/>
+                            BackgroundColor="{StaticResource buttons}"
+                            Command="{Binding ReduceWCommand}"/>
 
                         <Label
                         VerticalOptions="Center"
@@ -100,7 +103,8 @@
                         <Button BackgroundColor="{StaticResource buttons}"
                                 Text="+"
                                 TextColor="White"
-                                Margin="30,0,0,0"/>
+                                Margin="30,0,0,0"
+                                Command="{Binding IncreaseWCommand}"/>
 
                     </HorizontalStackLayout>
 
