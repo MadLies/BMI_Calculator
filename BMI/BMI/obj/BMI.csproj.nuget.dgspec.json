@@ -71,6 +71,10 @@
               "version": "[6.0.548, )",
               "autoReferenced": true
             },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Syncfusion.Maui.Gauges": {
               "target": "Package",
               "version": "[20.4.43, )"
@@ -177,6 +181,10 @@
               "version": "[6.0.548, )",
               "autoReferenced": true
             },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Syncfusion.Maui.Gauges": {
               "target": "Package",
               "version": "[20.4.43, )"
@@ -263,6 +271,10 @@
               "target": "Package",
               "version": "[6.0.548, )",
               "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Syncfusion.Maui.Gauges": {
               "target": "Package",
@@ -357,6 +369,10 @@
               "target": "Package",
               "version": "[10.0.22000.194, )",
               "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
             },
             "Syncfusion.Maui.Gauges": {
               "target": "Package",

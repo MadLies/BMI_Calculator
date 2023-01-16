@@ -972,3 +972,6 @@ C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\android\src\crc6
 C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\android\src\crc6486af4e8104107bae\DropdownViewExt.java
 C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\android\src\crc6486af4e8104107bae\LayoutViewGroupExt.java
 C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\android\src\crc648a9457dd5f66374f\NativeCustomScrollView.java
+C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\BMI.csproj.Fody.CopyLocal.cache
+C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\BMI.csproj.Fody.RuntimeCopyLocal.cache
+C:\Git Proyects\BMI_Calculator\BMI\BMI\obj\Debug\net6.0-android\android\assets\PropertyChanged.dll
